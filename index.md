@@ -17,6 +17,7 @@ As the clinical and neuroscientific questions and datasets we regularly interact
 
 
 # Resources
+A YouTube playlist containing all talks and tutorials may be found [here](https://youtube.com/playlist?list=PLjQYT8Fwp987E0tZdeMMgSY0juQmaZ8f0).
 
 ## Talk recordings
 - [Michele Ferrante](https://youtu.be/43pPzBkF2eI?t=31s)
