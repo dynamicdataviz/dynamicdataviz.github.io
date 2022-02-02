@@ -18,18 +18,17 @@ As the clinical and neuroscientific questions and datasets we regularly interact
 A YouTube playlist containing all talks and tutorials may be found [here](https://youtube.com/playlist?list=PLjQYT8Fwp987E0tZdeMMgSY0juQmaZ8f0).
 
 ## Talk recordings
-- [Michele Ferrante](https://youtu.be/43pPzBkF2eI?t=31s) ([NIMH](https://www.nimh.nih.gov/))
-- [Josh Gordon](https://youtu.be/43pPzBkF2eI?t=19m54s) ([NIMH](https://www.nimh.nih.gov/))
-- [Janice Chen](https://youtu.be/43pPzBkF2eI?t=22m30s) ([Hopkins](https://krieger.jhu.edu/))
-- [Manish Saggar](https://youtu.be/43pPzBkF2eI?t=31m57s) ([Stanford](https://www.stanford.edu/))
-- [Emily Finn](https://youtu.be/43pPzBkF2eI?t=43m6s) ([Dartmouth](https://home.dartmouth.edu/))
-- [Jeremy Manning](https://youtu.be/43pPzBkF2eI?t=51m55s) ([Dartmouth](https://home.dartmouth.edu/))
-- [Tim Behrens](https://youtu.be/43pPzBkF2eI?t=62m28s) ([Oxford](https://www.ox.ac.uk/), [UCL](https://www.ucl.ac.uk/))
-- [Aaron Alexander-Bloch](https://youtu.be/43pPzBkF2eI?t=91m32s) ([CHoP](https://www.chop.edu/))
-- [Katy Borner](https://youtu.be/43pPzBkF2eI?t=122m28s) ([IU](https://www.indiana.edu/))
-- [Lindsey Zimmerman](https://youtu.be/43pPzBkF2eI?t=154m13s) ([Stanford](https://www.stanford.edu/))
-- [Lucina Uddin](https://youtu.be/43pPzBkF2eI?t=187m29s) ([UCLA](https://www.ucla.edu/))
-
+- [Michele Ferrante](https://youtu.be/43pPzBkF2eI?t=31s) ([NIMH](https://www.nimh.nih.gov/)): Dynamic and interactive visualizations for dense neuro-behavioral data
+- [Josh Gordon](https://youtu.be/43pPzBkF2eI?t=19m54s) ([NIMH](https://www.nimh.nih.gov/)): NIMH perspective on dynamic data visualization
+- [Janice Chen](https://youtu.be/43pPzBkF2eI?t=22m30s) ([Hopkins](https://krieger.jhu.edu/)): Brain dynamics during movies and other naturally-occuring experiences
+- [Manish Saggar](https://youtu.be/43pPzBkF2eI?t=31m57s) ([Stanford](https://www.stanford.edu/)): Visualizing evoked and resting brain activity dynamics
+- [Emily Finn](https://youtu.be/43pPzBkF2eI?t=43m6s) ([Dartmouth](https://home.dartmouth.edu/)): Individual differences in the appraisal of social information
+- [Jeremy Manning](https://youtu.be/43pPzBkF2eI?t=51m55s) ([Dartmouth](https://home.dartmouth.edu/)): Visualizing the dynamics of complex thought
+- [Tim Behrens](https://youtu.be/43pPzBkF2eI?t=62m28s) ([Oxford](https://www.ox.ac.uk/), [UCL](https://www.ucl.ac.uk/)): Innovation and data visualization at eLife
+- [Aaron Alexander-Bloch](https://youtu.be/43pPzBkF2eI?t=91m32s) ([CHoP](https://www.chop.edu/)): Lifespan growth charts for structural brain MRI
+- [Katy Borner](https://youtu.be/43pPzBkF2eI?t=122m28s) ([IU](https://www.indiana.edu/)): Registering, visualizing, and exploring biomedical data
+- [Lindsey Zimmerman](https://youtu.be/43pPzBkF2eI?t=154m13s) ([Stanford](https://www.stanford.edu/)): Modeling to learn
+- [Lucina Uddin](https://youtu.be/43pPzBkF2eI?t=187m29s) ([UCLA](https://www.ucla.edu/), [Miami](https://welcome.miami.edu/)): Data visualization for network neuroscience
 
 ## Tutorials
 - [Chris Baldassano](http://www.dpmlab.org/) ([Columbia](https://www.columbia.edu/)) and [Jamal Williams](https://undergraduateresearch.princeton.edu/jamal-williams) ([Princeton](https://www.princeton.edu/)): Using a Hidden Markov Model (HMM) to find temporal structure in continuous naturalistic data [[video](https://youtu.be/hHQP2hftNcg?t=10m37s)] [[code](https://www.dropbox.com/s/9d0uao5cu37x3e5/final.zip?dl=0)]
