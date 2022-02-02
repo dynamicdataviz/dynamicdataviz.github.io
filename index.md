@@ -37,5 +37,5 @@ A YouTube playlist containing all talks and tutorials may be found [here](https:
 - Chris Baldassano and Jamal Williams: Using a Hidden Markov Model (HMM) to find temporal structure in continuous naturalistic data [[video](https://youtu.be/hHQP2hftNcg)] [[code](https://www.dropbox.com/s/9d0uao5cu37x3e5/final.zip?dl=0)]
 - Dora Hermes and Kai Miller: Basis profile curve identification to understand the effects of electrical stimulation [[video](https://youtu.be/PB9UYcQzDfU)] [[code](https://github.com/MultimodalNeuroimagingLab/bpc_jupyter)] [[data](https://openneuro.org/datasets/ds003708)]
 - Mark Thornton: Detecting and visualizing human body pose in naturalistic video [[video](https://youtu.be/UfRC3leMTlU)] [[code](https://colab.research.google.com/drive/1HN2S0zGqOSepLBN5IeJ-jBmzIO4W1aLq?usp=sharing)]
-- Ben Fulcher: HCTSA time-series classification [[code](https://github.com/benfulcher/hctsaTutorial_BonnEEG)]
+- Ben Fulcher: HCTSA time-series classification [[slides](https://www.dropbox.com/t/BVfEudyZQ2AfJ8qY)] [[code](https://github.com/benfulcher/hctsaTutorial_BonnEEG)]
 - Paula Sanz-Leon: Neural flows [[video](https://youtu.be/EKn17BOEQLU)] [[code](https://github.com/brain-modelling-group/neural-flows/tree/master/examples)]
