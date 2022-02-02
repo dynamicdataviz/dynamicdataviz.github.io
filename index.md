@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Overview
-
 As the clinical and neuroscientific questions and datasets we regularly interact with become larger and more complex, there is a growing need for tools that can help us to gain useful insights into the underlying trends and patterns.  This [NIMH](https://www.nimh.nih.gov/)-led workshop focused on one such class of tools: dynamic data visualizations.  Speakers discussed and provided hands-on experience with cutting-edge approaches to using dynamic visualizations to gain insights into data.
 
 ![hypertools](https://raw.githubusercontent.com/dynamicdataviz/dynamicdataviz.github.io/main/img/hypertools.gif) ![dyneusr](https://raw.githubusercontent.com/dynamicdataviz/dynamicdataviz.github.io/main/img/dyneusr.gif) ![neuralflow](https://raw.githubusercontent.com/dynamicdataviz/dynamicdataviz.github.io/main/img/neural_flow.gif) ![timecorr](https://raw.githubusercontent.com/dynamicdataviz/dynamicdataviz.github.io/main/img/timecorr.gif)
