@@ -6,3 +6,5 @@ plugins:
 is_project_page: true
 show_downloads: true
 google_analytics: UA-219202870-2
+locale: "en"
+markdown: kramdown
