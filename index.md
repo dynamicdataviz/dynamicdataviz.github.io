@@ -9,8 +9,8 @@ As the clinical and neuroscientific questions and datasets we regularly interact
 # Organizers
 - [Michele Ferrante](https://www.nimh.nih.gov/about/organization/dnbbs/behavioral-science-and-integrative-neuroscience-research-branch/theoretical-and-computational-neuroscience-program) ([NIMH](https://www.nimh.nih.gov/))
 - [Janice Chen](http://jchenlab.johnshopkins.edu/) ([Johns Hopkins University](https://krieger.jhu.edu/))
-- [Emily S. Finn](https://thefinnlab.github.io/) ([Dartmouth College](https://home.dartmouth.edu/))
-- [Jeremy R. Manning](http://www.context-lab.com/) ([Dartmouth College](https://home.dartmouth.edu/))
+- [Emily Finn](https://thefinnlab.github.io/) ([Dartmouth College](https://home.dartmouth.edu/))
+- [Jeremy Manning](http://www.context-lab.com/) ([Dartmouth College](https://home.dartmouth.edu/))
 - [Manish Saggar](https://braindynamicslab.github.io/) ([Stanford University](https://www.stanford.edu/))
 
 
