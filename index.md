@@ -24,7 +24,7 @@ A YouTube playlist containing all talks and tutorials may be found [here](https:
 - [Manish Saggar](https://youtu.be/43pPzBkF2eI?t=31m57s) (Stanford)
 - [Emily Finn](https://youtu.be/43pPzBkF2eI?t=43m6s) (Dartmouth)
 - [Jeremy Manning](https://youtu.be/43pPzBkF2eI?t=51m55s) (Dartmouth)
-- [Tim Behrens](https://youtu.be/43pPzBkF2eI?t=62m28s) (UCL)
+- [Tim Behrens](https://youtu.be/43pPzBkF2eI?t=62m28s) (Oxford, UCL)
 - [Aaron Alexander-Bloch](https://youtu.be/43pPzBkF2eI?t=91m32s) (CHoP)
 - [Katy Borner](https://youtu.be/43pPzBkF2eI?t=122m28s) (IU)
 - [Lindsey Zimmerman](https://youtu.be/43pPzBkF2eI?t=154m13s) (Stanford)
