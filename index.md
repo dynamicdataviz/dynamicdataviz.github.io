@@ -32,7 +32,7 @@ A YouTube playlist containing all talks and tutorials may be found [here](https:
 
 ## Tutorials
 - [Chris Baldassano](http://www.dpmlab.org/) ([Columbia](https://www.columbia.edu/)) and [Jamal Williams](https://undergraduateresearch.princeton.edu/jamal-williams) ([Princeton](https://www.princeton.edu/)): Using a Hidden Markov Model (HMM) to find temporal structure in continuous naturalistic data
-  - [[video](https://youtu.be/hHQP2hftNcg?t=10m37s)] [[code](https://www.dropbox.com/s/9d0uao5cu37x3e5/final.zip?dl=0)]
+  - [[video](https://youtu.be/hHQP2hftNcg?t=10m37s)] [[code](https://www.dropbox.com/s/cl59cg9fab9xcil/baldassano_williams_tutorial.zip?dl=0)]
 - [Dora Hermes](https://www.mayo.edu/research/faculty/hermes-miller-dora-ph-d/bio-20471548) ([Mayo Clinic](https://www.mayoclinic.org/)) and [Kai Miller](https://www.mayoclinic.org/biographies/miller-kai-j-m-d-ph-d/bio-20456021) ([Mayo Clinic](https://www.mayoclinic.org/)): Basis profile curve identification to understand the effects of electrical stimulation
   - [[video](https://youtu.be/PB9UYcQzDfU)] [[code](https://github.com/MultimodalNeuroimagingLab/bpc_jupyter)] [[data](https://openneuro.org/datasets/ds003708)]
 - [Mark Thornton](http://scraplab.org/) ([Dartmouth](https://home.dartmouth.edu/)): Detecting and visualizing human body pose in naturalistic video 
